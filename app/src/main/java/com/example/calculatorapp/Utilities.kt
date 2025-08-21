@@ -1,4 +1,4 @@
-package com.example.calculatorapp
+package com.michael.calculatorapp
 
 /*
 * Utility function for String to check if a character is an operator.

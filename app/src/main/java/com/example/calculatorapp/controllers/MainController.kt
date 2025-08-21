@@ -1,7 +1,7 @@
-package com.example.calculatorapp.controllers
+package com.michael.calculatorapp.controllers
 
-import com.example.calculatorapp.MainActivity
-import com.example.calculatorapp.models.MainModel
+import com.michael.calculatorapp.MainActivity
+import com.michael.calculatorapp.models.MainModel
 
 class MainController(mainActivity: MainActivity) {
 

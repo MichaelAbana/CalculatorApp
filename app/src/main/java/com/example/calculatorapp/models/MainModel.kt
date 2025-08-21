@@ -1,10 +1,10 @@
-package com.example.calculatorapp.models
+package com.michael.calculatorapp.models
 
 import android.util.Log
-import com.example.calculatorapp.Calculator
-import com.example.calculatorapp.Formatter
-import com.example.calculatorapp.containsAnyOperator
-import com.example.calculatorapp.isBinaryOperator
+import com.michael.calculatorapp.Calculator
+import com.michael.calculatorapp.Formatter
+import com.michael.calculatorapp.containsAnyOperator
+import com.michael.calculatorapp.isBinaryOperator
 import java.lang.StringBuilder
 
 class MainModel{

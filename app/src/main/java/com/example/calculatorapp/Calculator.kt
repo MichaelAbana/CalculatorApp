@@ -1,4 +1,4 @@
-package com.example.calculatorapp
+package com.michael.calculatorapp
 
 import android.util.Log
 

@@ -1,4 +1,4 @@
-package com.example.calculatorapp
+package com.michael.calculatorapp
 
 /*
 * Extension function for String to check if it contains any operator.

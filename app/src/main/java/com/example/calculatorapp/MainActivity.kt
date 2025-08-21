@@ -3,9 +3,9 @@ package com.michael.calculatorapp
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.TypedValue
-import com.example.calculatorapp.databinding.ActivityMainBinding
+import com.michael.calculatorapp.databinding.ActivityMainBinding
 import android.widget.Toast
-import com.example.calculatorapp.controllers.MainController
+import com.michael.calculatorapp.controllers.MainController
 
 class MainActivity : AppCompatActivity() {
 
